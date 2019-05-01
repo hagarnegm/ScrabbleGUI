@@ -1,0 +1,2 @@
+# ScrabbleGUI
+Scrabble GUI
